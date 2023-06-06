@@ -2,7 +2,7 @@
     "name": "vitrina",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://nadllin.github.io/vitrinashrek/",
+    "homepage": "https://witchoreo.github.io/vitrina/",
     "dependencies": {
         "@babel/core": "^7.16.0",
         "@pmmmwh/react-refresh-webpack-plugin": "^0.5.3",
