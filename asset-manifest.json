@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vitrina/static/css/main.25425cb5.css",
+    "main.js": "/vitrina/static/js/main.daf78704.js",
+    "static/js/787.79a175b9.chunk.js": "/vitrina/static/js/787.79a175b9.chunk.js",
+    "index.html": "/vitrina/index.html",
+    "main.25425cb5.css.map": "/vitrina/static/css/main.25425cb5.css.map",
+    "main.daf78704.js.map": "/vitrina/static/js/main.daf78704.js.map",
+    "787.79a175b9.chunk.js.map": "/vitrina/static/js/787.79a175b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25425cb5.css",
+    "static/js/main.daf78704.js"
+  ]
+}
